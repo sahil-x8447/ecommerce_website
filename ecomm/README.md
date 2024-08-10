@@ -4,6 +4,12 @@ Project Description: Django eCommerce Website - GadgetGalaxy
 Project Overview:
 This project is an eCommerce website developed using Django, a robust Python web framework. The website provides essential functionalities such as product management and user authentication, designed to deliver a clean and user-friendly interface.
 
+Technologies Used:
+HTML: Provides the structure of the web pages.
+CSS: Used for styling the website and ensuring a visually appealing layout.
+JavaScript: Enhances interactivity and dynamic features.
+Bootstrap: Utilized for responsive design and modern UI components.
+
 ## Prerequisites
 
 Before running the project, ensure you have the following installed:
@@ -38,3 +44,12 @@ Follow these steps to set up and run the project:
 
 6. **Start the Django development server:**
    python manage.py runserver
+
+---
+
+ADMIN PASSWORD FOR LOGIN
+
+username - admin
+password - 123
+
+---
