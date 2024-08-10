@@ -1,4 +1,4 @@
-# TweetSphere - Twitter Clone
+# GadgetGalaxy - Django Website
 
 Project Description: Django eCommerce Website - GadgetGalaxy
 Project Overview:
@@ -19,7 +19,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**
 
    ```sh
-   git clone
+   git clone https://github.com/sahil-x8447/ecommerce_website.git
    ```
 
 2. **Navigate to the Project Directory**
